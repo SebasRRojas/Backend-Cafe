@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "coenraads.bracket-pair-colorizer",
+        "adam-watters.vscode-color-pick",
+        "rodrigovallades.es7-react-js-snippets",
+        "vscjava.vscode-java-pack",
+        "pkief.material-icon-theme",
+        "swellaby.node-pack",
+        "quicktype.quicktype",
+        "pivotal.vscode-boot-dev-pack",
+        "wayou.vscode-todo-highlight",
+        "eamodio.gitlens"
+    ]
+}
